@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @strwtom
 - 👀 I’m interested in draw somethings
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to make some codes
+- 💞️ I’m looking to collaborate on robotic
+- 📫 How to reach me idk lmao
 
 <!---
 strwtom/strwtom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
