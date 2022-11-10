@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @strwtom
+- 👋 Hi, I’m @
 - 👀 I’m interested in draw somethings
 - 🌱 I’m currently learning how to make some codes
 - 💞️ I’m looking to collaborate on robotic
